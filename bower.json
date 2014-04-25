@@ -1,0 +1,5 @@
+{
+  "name": "flowplayer",
+  "version": "5.4.6",
+  "main": ["lib/flowplayer.js"]
+}
